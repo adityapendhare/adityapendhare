@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pranavwanwe?tab=repositories](https://github.com/pranavwanwe?tab=repositories)
-
+- 👨‍💻 All of my projects are available at
+  
 - 💬 Ask me about **Data science, Machine Learning, Deep Learning**
 
-- 📫 How to reach me **pranavwanwe@gmail.com**
+- 📫 How to reach me **aditya.s.pendhare@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
