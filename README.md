@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranav Wanwe</h1>
+<h1 align="center">Hi 👋, I'm Aditya Pendhare</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavwanwe&label=Profile%20views&color=0e75b6&style=flat" alt="pranavwanwe" /> </p>
