@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at
+- 👨‍💻 All of my projects are available at https://github.com/adityapendhare?tab=repositories
   
 - 💬 Ask me about **Data science, Machine Learning, Deep Learning**
 
