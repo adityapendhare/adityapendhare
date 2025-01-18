@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Pendhare</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding" width="400" src="file:///C:/Users/91917/OneDrive/Pictures/daonline.webp">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/adityapendhare/adityapendhare/refs/heads/main/daonline.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapendhare&label=Profile%20views&color=0e75b6&style=flat" alt="adityapendhare" /> </p>
 
