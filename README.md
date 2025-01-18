@@ -1,3 +1,5 @@
+![logo](https://github.com/adityapendhare/adityapendhare/blob/main/Black%20Elegant%20Minimalist%20Profile%20LinkedIn%20Banner%20(2).png)
+
 <h1 align="center">Hi 👋, I'm Aditya Pendhare</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
